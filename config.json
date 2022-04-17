@@ -10,19 +10,11 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "BotNgu",
-    "PREFIX": "/",
+    "BOTNAME": "    ",
+    "PREFIX": "=",
     "ADMINBOT": [
-        "100044282332682",
-        "100072834392720",
-        "100077286549410",
-        "100077355639846",
-        "100072346635080",
-        "100022089141495",
-        "100077317673805",
-        "100051638101791",
-        "100053263182140",
-        "1019196666"
+        "100056335523144",
+        "",
     ],
     "DATABASE": {
         "sqlite": {
@@ -35,7 +27,7 @@
         "listenEvents": true,
         "pauseLog": true,
         "logLevel": "error",
-        "selfListen": true
+        "selfListen": false
     },
     "version": "1.2.14",
     "checktt": {
@@ -46,8 +38,8 @@
         "rewardCoin": 200
     },
     "help": {
-        "autoUnsend": true,
-        "delayUnsend": 10
+        "autoUnsend": false,
+        "delayUnsend": 0
     },
     "math": {
         "WOLFRAM": "T8J8YV-H265UQ762K"
@@ -56,8 +48,8 @@
         "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
     },
     "rankup": {
-        "autoUnsend": true,
-        "unsendMessageAfter": 5
+        "autoUnsend": false,
+        "unsendMessageAfter": 0
     },
     "rname": {
         "APIKEY": "mi451266190"
@@ -81,9 +73,9 @@
         "cooldownTime": 1200000
     },
     "adminUpdate": {
-        "autoUnsend": true,
+        "autoUnsend": false,
         "sendNoti": true,
-        "timeToUnsend": 10
+        "timeToUnsend": 0
     },
     "audio": {
         "YOUTUBE_API": "AIzaSyBJl0esWNv12ukwIjSARrqof0zI2XXt3Y4",
@@ -145,9 +137,9 @@
         "enable": true
     },
     "menu": {
-        "autoUnsend": "",
+        "autoUnsend": false,
         "unsendMessageAfter": 5,
-        "delayUnsend": 10
+        "delayUnsend": 0
     },
     "ghep": {
         "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
